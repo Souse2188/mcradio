@@ -1,3 +1,4 @@
-https://github.com/Souse2188/mcradio/raw/main/songs/%5BONTIVA.COM%5D-Dream%20Reaper-HQ.dfpwm
-https://github.com/Souse2188/mcradio/raw/main/songs/%5BONTIVA.COM%5D-Grow%20Fonder-HQ.dfpwm
-https://github.com/Souse2188/mcradio/raw/main/songs/%5BONTIVA.COM%5D-Pogo%20_%20Giving-HQ.dfpwm
+https://github.com/Souse2188/mcradio/blob/main/songs/FooFighters_Everlong.dfpwm?raw=true
+https://github.com/Souse2188/mcradio/blob/main/songs/FooFighters_LearntoFly.dfpwm?raw=true
+https://github.com/Souse2188/mcradio/blob/main/songs/FooFighters_MyHero.dfpwm?raw=true
+https://github.com/Souse2188/mcradio/blob/main/songs/FooFighters_ThePretender.dfpwm?raw=true
